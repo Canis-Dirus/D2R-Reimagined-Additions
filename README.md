@@ -1,9 +1,9 @@
 # D2R-Reimagined-Additions
 These are personal changes I've made to add support for other mods or changes to the D2R Reimagined Mod.
 
-Additions Version: 0.0.3
+Additions Version: 0.0.4
 
-Current Supported Mod Version: 1.12.0
+Current Supported Mod Version: 1.12.1
 
 Current Additions;
 
